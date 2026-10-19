@@ -1,0 +1,83 @@
+header {
+    text-align: center; 
+}
+a {
+    color: #479761
+}
+
+body {
+    background-color: #19181A;
+    color: #B19f9E
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+#aboutText {
+    text-align: left;
+}
+
+#boxStyling {
+    border: 1px solid #19181A;
+    background-color: #CEBC81; 
+    color: #A16E83;
+}
+
+table {
+
+    width: 50%; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+th, td {
+  border: 1px solid #19181A;
+  padding: 10px;
+  text-align: left;
+}
+
+form {
+    padding: 5px; width: fit-content;
+    color: #A16E83;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#infoInput {
+    margin-bottom: 5px;
+}
+
+#contactMessage {
+    width: 400px; 
+    height: 150px
+}
+
+#submitButton {
+    text-align: center;
+}
+
+button {
+    color: #479761;
+    background-color: #19181A
+}
+
+#thankyouImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+
+#logoImages {
+    size: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    position: sticky;
+    text-align: center; 
+    height: 40px
+}
