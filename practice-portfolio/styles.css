@@ -14,11 +14,11 @@ h2, h3 {
     text-align: center;
 }
 
-#aboutText {
+.aboutText {
     text-align: left;
 }
 
-#boxStyling {
+.boxStyling {
     border: 1px solid #19181A;
     background-color: #CEBC81; 
     color: #A16E83;
@@ -37,6 +37,11 @@ th, td {
   text-align: left;
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+}
+
 form {
     padding: 5px; width: fit-content;
     color: #A16E83;
@@ -44,16 +49,16 @@ form {
     margin-right: auto;
 }
 
-#infoInput {
+.infoInput {
     margin-bottom: 5px;
 }
 
-#contactMessage {
+.contactMessage {
     width: 400px; 
     height: 150px
 }
 
-#submitButton {
+.submitButton {
     text-align: center;
 }
 
@@ -62,14 +67,14 @@ button {
     background-color: #19181A
 }
 
-#thankyouImage {
+.thankyouImage {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 700px;
 }
 
-#logoImages {
+.logoImages {
     size: 200px;
     display: block;
     margin-left: auto;
