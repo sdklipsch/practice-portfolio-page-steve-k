@@ -2,12 +2,12 @@ header {
     text-align: center; 
 }
 a {
-    color: #479761
+    color: #BB86FC
 }
 
 body {
-    background-color: #19181A;
-    color: white;
+    background-color: #121212;
+    color: #E0E0E0;
 }
 
 h2, h3 {
@@ -46,7 +46,6 @@ h2, h3 {
     flex: 1;
     cursor: pointer;
     transition: transform 0.2s, opacity 0.2s;
-    text-align: center;
 }
 
 .logo-item img {
@@ -83,10 +82,13 @@ h2, h3 {
     color: #333;
 }
 
+.job-details a{
+    color: #3700B3;
+}
+
 .boxStyling {
     border: 1px solid #19181A;
-    background-color: white; 
-    color: #333
+    background-color: #ffffff30; 
 }
 
 table {
@@ -110,7 +112,6 @@ th, td {
 
 form {
     padding: 5px; width: fit-content;
-    color: #A16E83;
     margin-left: auto;
     margin-right: auto;
 }
@@ -129,8 +130,8 @@ form {
 }
 
 button {
-    color: #479761;
-    background-color: #19181A
+    color: #BB86FC;
+    background-color: #1F1A24
 }
 
 .thankyouImage {
